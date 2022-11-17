@@ -1,5 +1,4 @@
-# 
-Flutter-UI-Tutorial-Trip-App
+# Flutter-UI-Tutorial-Trip-App
 A new Flutter project.
 
 ## Getting Started
